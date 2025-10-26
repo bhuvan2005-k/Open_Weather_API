@@ -36,6 +36,7 @@ Bhuvaneshwari K - [GitHub](https://github.com/bhuvan2005-k)
 
 ## Sample Output
 
+```text
 How many cities do you want to check? 2
 
 Enter city name: Bangalore
@@ -57,5 +58,6 @@ Wind Speed: 4.05 m/s
 ======================================================================
 
 All done..!!!!!
+
 
 
