@@ -22,13 +22,17 @@ It was built to practice working with APIs and JSON data in Java.
 3. Add your API key in WeatherApp.java:
    String apiKey = "YOUR_API_KEY_HERE";
 
-4. Compile and run the program:
- * Windows
-      javac -cp .;lib/json.jar demo/WeatherApp.java
-      java -cp .;lib/json.jar demo.WeatherApp
+4. Compile and Run the program
+   * Windows 
+   # Compile
+     javac -cp .;lib/json.jar demo/WeatherApp.java
+   # Run
+     java -cp .;lib/json.jar demo.WeatherApp
 
- * Mac / Linux
+   * Mac / Linux
+   # Compile
      javac -cp .:lib/json.jar demo/WeatherApp.java
+   # Run
      java -cp .:lib/json.jar demo.WeatherApp
 
 ## Author
