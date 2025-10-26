@@ -23,6 +23,7 @@ It was built to practice working with APIs and JSON data in Java.
    String apiKey = "YOUR_API_KEY_HERE";
 
 4. Compile and Run the program
+   ```bash
    * Windows 
    # Compile
      javac -cp .;lib/json.jar demo/WeatherApp.java
